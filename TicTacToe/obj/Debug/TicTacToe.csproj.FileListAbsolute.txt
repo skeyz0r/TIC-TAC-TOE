@@ -1,0 +1,11 @@
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frmMain.resources
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+E:\VisualStudio\Projects\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
